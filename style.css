@@ -5,9 +5,8 @@ body {
   align-items: center;
   height: 100vh;
   justify-content: center;
-  background-color: black;
   overflow: hidden;
-  background-color:rgb(113, 5, 90)
+  background-color: rgb(113, 5, 90);
 }
 
 .img-container {
