@@ -6,7 +6,10 @@ body {
   height: 100vh;
   justify-content: center;
   overflow: hidden;
-  background-color: rgb(113, 5, 90);
+  background-image: url(img.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
 }
 
 .img-container {
